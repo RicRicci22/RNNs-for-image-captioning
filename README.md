@@ -10,9 +10,9 @@ It is a very "homemade" code, so it can as well contains conceptual or implement
 
 Since the dataset and weights are very heavy, they are not included in the repo. You can download them from the following links:
 
-ucm_dataset -> https://drive.google.com/drive/folders/1Dck-pXpVilhYPmEteYSId0aB734_YaTs?usp=sharing (just download it, extract and put in the main folder)
+ucm_dataset -> https://drive.google.com/file/d/1xvPy-Ayr9XSml7T0sIJfWbQYX-j3pDQb/view?usp=sharing (download "ucm_dataset.zip", extract it and put it in the main folder)
 
-weights -> 
+weights -> https://drive.google.com/file/d/1AIsgF3xjvRPpXjQJNrO7a6SzWQGRTQa0/view?usp=sharing (download "weights.zip", extract it and put it in the main folder)
 
 ### TRAIN THE MODEL ON THE DATASET
 ### RUN INFERENCE ON THE FULL DATASET
