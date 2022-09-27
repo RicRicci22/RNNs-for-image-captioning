@@ -19,4 +19,8 @@ weights -> https://drive.google.com/file/d/1AIsgF3xjvRPpXjQJNrO7a6SzWQGRTQa0/vie
 
 ### RUN INFERENCE ON A SINGLE IMAGE
 
-
+### TODO
+- [ ] Add the guide to train the model on the dataset
+- [ ] Add the guide to run inference on the full dataset
+- [ ] Add the guide to run inference on a single image
+- [ ] Improve readme appearence
