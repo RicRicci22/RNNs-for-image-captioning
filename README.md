@@ -1,4 +1,4 @@
-# RNNs-for-image-captioning
+# RNNs For Remote Sensing Image Captioning
 
 This repo contains code to train and test different RNNs architecture on the remote sensing image captioning task. 
 
@@ -14,9 +14,9 @@ ucm_dataset -> https://drive.google.com/drive/folders/1Dck-pXpVilhYPmEteYSId0aB7
 
 weights -> 
 
-# TRAIN THE MODEL ON THE DATASET
-# RUN INFERENCE ON THE FULL DATASET
+### TRAIN THE MODEL ON THE DATASET
+### RUN INFERENCE ON THE FULL DATASET
 
-# RUN INFERENCE ON A SINGLE IMAGE
+### RUN INFERENCE ON A SINGLE IMAGE
 
 
